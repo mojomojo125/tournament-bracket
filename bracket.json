@@ -1,0 +1,56 @@
+{
+    "teams": [
+        [
+            {"name": "Team 1", "icon": "https://wespkwarp.com/bm-a01.png"},
+            {"name": "Team 2", "icon": "https://wespkwarp.com/bm-a02.png"}
+        ],
+        [
+            {"name": "Team 3", "icon": "https://wespkwarp.com/bm-a03.png"},
+            {"name": "Team 4", "icon": "https://wespkwarp.com/bm-a04.png"}
+        ],
+        [
+            {"name": "Team 5", "icon": "https://wespkwarp.com/bm-a02.png"},
+            {"name": "Team 6", "icon": "https://wespkwarp.com/bm-a01.png"}
+        ],
+        [
+            {"name": "Team 7", "icon": "https://wespkwarp.com/bm-a03.png"},
+            {"name": "Team 8", "icon": "https://wespkwarp.com/bm-a04.png"}
+        ],
+        [
+            {"name": "Team 9", "icon": "https://wespkwarp.com/bm-a01.png"},
+            {"name": "Team 10", "icon": "https://wespkwarp.com/bm-a02.png"}
+        ],
+        [
+            {"name": "Team 11", "icon": "https://wespkwarp.com/bm-a03.png"},
+            {"name": "Team 12", "icon": "https://wespkwarp.com/bm-a04.png"}
+        ],
+        [
+            {"name": "Team 13", "icon": "https://wespkwarp.com/bm-a02.png"},
+            {"name": "Team 14", "icon": "https://wespkwarp.com/bm-a01.png"}
+        ],
+        [
+            {"name": "Team 15", "icon": "https://wespkwarp.com/bm-a03.png"},
+            {"name": "Team 16", "icon": "https://wespkwarp.com/bm-a04.png"}
+        ]
+    ],
+    "results": [
+    [
+        [[2, 1], [1, 2], [2, 0], [2, 1], [2, 0], [1, 2], [2, 1], [2, 0]],
+        [[2, 1], [2, 0], [1, 2], [2, 1]],
+        [[2, 1], [2, 0]],
+        [[2, 0]]
+    ],
+    [  
+        [[2, 1], [2, 0], [2, 1], [2, 0]], 
+        [[2, 1], [2, 1], [2, 0], [2, 1]],
+        [[2, 1], [2, 0]],
+        [[2, 1], [2, 0]], 
+        [[2, 1]], 
+        [[2, 0]] 
+    ],
+    [ 
+        [[2, 1],[0, 2]] 
+
+    ]
+    ]
+}
